@@ -1,0 +1,81 @@
+# LICENSE
+
+MCEngine - Commercial License v2025
+
+This software is licensed under the MCEngine Commercial License, version 2025.
+
+---
+
+## Clear Identity
+This project and all associated software are part of the **MCEngine** ecosystem.
+
+Original Author: **MCEngine**  
+Organization: **MCEngine ([GitHub](https://github.com/MCEngine) & [GitLab](https://gitlab.com/MCEngine))**  
+Website: **https://mcengine-website.github.io/pet**
+
+---
+
+## Preamble
+The MCEngine Commercial License is a proprietary license that governs use of the Software in compiled form only.  
+The terms below protect MCEngine’s intellectual property while permitting authorized use and interaction exclusively through approved public interfaces (such as `MCEnginePetCommon.java`).
+
+---
+
+## Terms and Conditions
+
+### 0. Definitions
+- **“This License”** refers to version 2025 of the MCEngine Commercial License.  
+- **“You”** refers to each authorized licensee of the Software.  
+- **“The Software”** refers to any binary, code, or compiled work licensed under this License.  
+
+### 1. Source Code
+The source code of this Software is private and proprietary.  
+You may not access, decompile, disassemble, decrypt, reverse engineer, or modify the source code.
+
+### 2. Copying and Distribution
+You may not copy, distribute, resell, sublicense, lease, rent, or otherwise transfer the Software except with explicit written permission granted directly by **MCEngine**.
+
+### 3. Authorized Use
+- The Software is **sold with a license** and may only be used by individuals or organizations who purchase or obtain authorization directly from **MCEngine**.  
+- Unauthorized use, including redistribution or unapproved operation, is strictly prohibited.
+
+### 4. Ownership
+The Software is **sold under license**, not transferred as permanent ownership.  
+**MCEngine** retains all rights, title, and interest in and to the Software, including all intellectual property rights.
+
+### 5. Extensions
+- The Software provides extension loading within the plugin. Developers may create their own pets through extensions, but only by using the API made available in `MCEnginePetCommon.java`.  
+- Commercial sellers of extensions must provide valid and direct contact information (such as email, website, or social media) so users can reach them.  
+- **Disclaimer:** MCEngine is not responsible for any damages, losses, or issues caused by third-party extensions. Server owners and users must exercise caution when using external extensions.
+
+### 6. Security and Trust
+For security and peace of mind, it is strongly recommended to use extensions from developers who clearly identify themselves with real-world contact information.  
+Anonymous creators are not necessarily malicious, but if harm occurs, accountability may be impossible to enforce.  
+Server owners should carefully evaluate this risk when choosing extensions.
+
+### 7. Termination
+This License terminates automatically if you fail to comply with any term of this Agreement.  
+Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+### 8. Warranty Disclaimer
+THIS SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+The entire risk as to the quality and performance of the Software is with you.
+
+### 9. Limitation of Liability
+IN NO EVENT SHALL **MCEngine** BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES, ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE OR ANY EXTERNAL EXTENSIONS.
+
+---
+
+## Commercial Protection
+All rights are reserved by **MCEngine**.  
+Use is strictly limited to parties who have purchased or obtained authorization directly.  
+No rights of modification, redistribution, or source access are granted under this License.
+
+---
+
+## Full License Text
+This License file itself constitutes the complete, legally binding terms of the MCEngine Commercial License v2025.
+
+---
+
+MCEngine 2025
